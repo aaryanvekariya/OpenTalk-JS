@@ -1,0 +1,23 @@
+{
+  "name": "ollama_genai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:github.com/aaryanvekariya/OpenTalk-JS.git.git"
+  },
+  "author": "Aryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaryanvekariya/OpenTalk-JS.git/issues"
+  },
+  "homepage": "https://github.com/aaryanvekariya/OpenTalk-JS.git#readme",
+  "description": "",
+  "dependencies": {
+    "ollama": "^0.5.11"
+  }
+}
