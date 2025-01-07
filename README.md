@@ -5,11 +5,11 @@
 1. Open your terminal or command prompt 🖥️
 2. Clone the repository using the following command 
     ```
-    git clone https://github.com/YashSakhareliya/OpenTalkJS.git
+    git clone https://github.com/aaryanvekariya/OpenTalk-JS.git
     ```
 3. Now enter into the clone file by using command 📂
     ```
-    cd OpenTalkJS
+    cd OpenTalk-JS
     ```
 4. Now open the editor ✍️
 
