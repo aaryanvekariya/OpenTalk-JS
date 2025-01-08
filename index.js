@@ -22,18 +22,18 @@
 import ollama from "ollama";
 import fs from "fs";
 
-let q= fs.readFileSync("./q.txt", "utf-8");
+let q= fs.readFileSync("./A.txt", "utf-8");
 console.log(q)
 
 askQuestion()
 async function askQuestion() {
   try {
     const response = await ollama.chat({
-      model: "llama3.2:1b",
+      model: "llama3.2:latest",
       messages: [{ role: 'user', content: q }]
     });
 
-    fs.writeFileSync("./a.txt", response.message.content);
+    console.log(response.message.content);
 
   } catch (error) {
     console.error("Error occurred:", error.message);
