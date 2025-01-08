@@ -1,0 +1,8 @@
+There are 60 seconds in 1 minute.
+There are 60 minutes in 1 hour.
+
+So, to find the total number of seconds in an hour:
+
+60 seconds/minute x 60 minutes/hour = 3600 seconds/hour
+
+Therefore, there are 3600 seconds in an hour.

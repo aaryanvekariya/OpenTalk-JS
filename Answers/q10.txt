@@ -1,0 +1,6 @@
+There are 30 or 31 days in a month, depending on the specific month. Here's the breakdown:
+
+* Months with 30 days: April, June, September, and November
+* Months with 31 days: January, March, May, July, August, October, and December
+
+Note that February has 28 (or 29) days in a leap year.
